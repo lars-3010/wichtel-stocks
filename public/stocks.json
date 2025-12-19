@@ -4,26 +4,26 @@
     "stockSymbol": "AAPL",
     "entryPrice": 150,
     "entryDate": "2025-01-01",
-    "currentPrice": 272.19,
-    "performance": 81.46,
-    "lastUpdated": "2025-12-18T23:02:50.022Z"
+    "currentPrice": 273.67,
+    "performance": 82.45,
+    "lastUpdated": "2025-12-19T23:02:39.718Z"
   },
   {
     "participant": "Bob",
     "stockSymbol": "MSFT",
     "entryPrice": 300,
     "entryDate": "2025-01-01",
-    "currentPrice": 483.98,
-    "performance": 61.33,
-    "lastUpdated": "2025-12-18T23:02:50.117Z"
+    "currentPrice": 485.92,
+    "performance": 61.97,
+    "lastUpdated": "2025-12-19T23:02:39.807Z"
   },
   {
     "participant": "TestUser",
     "stockSymbol": "TEST",
     "entryPrice": 100,
     "entryDate": "2025-12-15",
-    "currentPrice": 56.6284,
-    "performance": -43.37,
-    "lastUpdated": "2025-12-18T23:02:50.162Z"
+    "currentPrice": 56.3549,
+    "performance": -43.65,
+    "lastUpdated": "2025-12-19T23:02:39.915Z"
   }
 ]
