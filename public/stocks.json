@@ -6,7 +6,7 @@
     "entryDate": "2025-01-01",
     "currentPrice": 273.81,
     "performance": 82.54,
-    "lastUpdated": "2025-12-24T23:02:29.668Z"
+    "lastUpdated": "2025-12-25T23:02:32.869Z"
   },
   {
     "participant": "Bob",
@@ -15,7 +15,7 @@
     "entryDate": "2025-01-01",
     "currentPrice": 488.02,
     "performance": 62.67,
-    "lastUpdated": "2025-12-24T23:02:29.735Z"
+    "lastUpdated": "2025-12-25T23:02:32.921Z"
   },
   {
     "participant": "TestUser",
@@ -24,6 +24,6 @@
     "entryDate": "2025-12-15",
     "currentPrice": 56.5439,
     "performance": -43.46,
-    "lastUpdated": "2025-12-24T23:02:29.799Z"
+    "lastUpdated": "2025-12-25T23:02:32.973Z"
   }
 ]
